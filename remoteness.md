@@ -458,6 +458,5 @@ These are just some of the things I've had to learn about in order to complete t
 - GeoJSON files
 - The GeoPandas library
 
-I would like to say thank you to everyone who is contributing to making CS50 possible. It's just amazing that it's available for free. In all honesty, I would nominate it for "best thing on the internet" pure and simple. I mean, what else is there that's better? 
 
 That's all! From now I'll just be waiting for the day when I'm on a road trip through some far-off part of Denmark and someone says: "Wow, this must be one of the most remote places in all of Denmark!", and I'll respond with: "Actually it's only the 157th most remote place." It will definitely be worth it. :sunglasses:
