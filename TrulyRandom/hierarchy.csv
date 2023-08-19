@@ -1,0 +1,12 @@
+﻿edible;physical
+alive;physical
+people;alive
+clothing;object
+container;physical
+(none);pn
+transport;container
+car;transport
+crossable;container
+object;physical
+(none);game
+verbal;abstract

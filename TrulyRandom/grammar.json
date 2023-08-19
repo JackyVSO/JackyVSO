@@ -1,0 +1,90 @@
+{
+    "S": {
+        "nexts": ["IV", "STV", "MTV"],
+        "weights": [0.25, 0.375, 0.375],
+        "vocabulary": []},
+    "IV": {
+        "nexts": ["ADJV", "P"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["IV"]},
+    "STV": {
+        "nexts": ["PART", "SART"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["STV"]},
+    "MTV": {
+        "nexts": ["MSART", "MPART"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["MTV"]},
+    "PART": {
+        "nexts": ["N", "ADJ"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["PART"]},
+    "SART": {
+        "nexts": ["N", "ADJ"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["SART"]},      
+    "ADJ": {
+        "nexts": ["N", "ADJ"],
+        "weights": [0.9, 0.1],
+        "vocabulary": ["ADJ"]},
+    "MSART": {
+        "nexts": ["MN", "MADJ"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["SART"]},
+    "MPART": {
+        "nexts": ["MN", "MADJ"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["PART"]},
+    "MADJ": {
+        "nexts": ["MN", "MADJ"],
+        "weights": [0.9, 0.1],
+        "vocabulary": ["ADJ"]},
+    "ADV": {
+        "nexts": ["END", "MP", "P", "CONJV", "ADJV"],
+        "weights": [0.15, 0.4, 0.2, 0.1, 0.15],
+        "vocabulary": ["ADV"]}, 
+    "ADJV": {
+        "nexts": ["END", "P", "CONJV"],
+        "weights": [0.3, 0.4, 0.3],
+        "vocabulary": ["ADJV"]}, 
+    "N": {
+        "nexts": ["P", "END", "CONJ", "CONJV"], 
+        "weights": [0.4, 0.2, 0.2, 0.2],
+        "vocabulary": ["N", "MN"]},
+    "MN": {
+        "nexts": ["ADV", "P", "MP", "MCONJ", "MADJV", "CONJV", "END"], 
+        "weights": [0.15, 0.1, 0.2, 0.15, 0.2, 0.1, 0.1],
+        "vocabulary": ["MN"]},
+    "MCONJ": {
+        "nexts": ["MSART", "MPART"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["CONJ"]},
+    "MADJV": {
+        "nexts": ["END", "P", "MP", "CONJV"],
+        "weights": [0.15, 0.2, 0.5, 0.15],
+        "vocabulary": ["ADJV"]},
+    "P": {
+        "nexts": ["PN", "PART", "SART"],
+        "weights": [0.15, 0.425, 0.425],
+        "vocabulary": ["P"]}, 
+    "MP": {
+        "nexts": ["PN", "PART", "SART"],
+        "weights": [0.1, 0.45, 0.45],
+        "vocabulary": ["MP"]}, 
+    "PN": {
+        "nexts": ["END", "CONJV", "P"],
+        "weights": [0.35, 0.35, 0.3],
+        "vocabulary": ["PN"]},
+    "CONJV": {
+        "nexts": ["IV", "STV", "MTV"],
+        "weights": [0.3, 0.3, 0.4],
+        "vocabulary": ["CONJV"]},
+    "CONJ": {
+        "nexts": ["SART", "PART"],
+        "weights": [0.5, 0.5],
+        "vocabulary": ["CONJ"]}, 
+    "END": {
+        "nexts": [""],
+        "vocabulary": []
+        }
+}
