@@ -5,7 +5,7 @@
 ## Introduction
 It's kind of surprising how in-demand randomness is. It's surprising because randomness is fundamentally useless. Solving problems always seems to come down to doing something distinctly precise and not random. So then why do people keep complaining that the shuffle function on Spotify is "not random enough"? Why is "surprise me!" such a popular request? And why is Monty Python - masters of randomness - the most celebrated comedy group of all time?
 
-I think it's because randomness is freedom. It liberates you from the confines what your imagination. In fact, it liberates you from the confines of human ingenuity altogether. At the same time, randomness is inherently fair. It liberates you from the stress of dealing bias and ulterior motives.
+I think it's because randomness is freedom. It liberates you from the confines of your own imagination. In fact, it liberates you from the confines of human ingenuity altogether. At the same time, randomness is inherently fair. It liberates you from the stress of dealing bias and ulterior motives.
 
 ![Monty Python being random](https://pbs.twimg.com/media/DbVRkAUW4AAta4M.jpg)
 
