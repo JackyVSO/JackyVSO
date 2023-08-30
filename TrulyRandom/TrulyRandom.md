@@ -33,7 +33,7 @@ At my first request, it generated a sentence of the category "meaningful things 
 
 This should not be surprising. ChatGPT is trained to be relevant - because, as we've established, that's what's useful. It's unable to provide an answer that has no context at all.
 
-What's particularly interesting to me is this: Computer are inherently amazing at being random, but ChatGPT is a computer that has been trained to be like a human and has, in so doing, forfeited its innate capacity for randomness. So, in a sense, ChatGPT is bad at being random for the same reason humans are bad at being random: Our decision-making processes are based on neural networks, and what neural networks do is fundamentally match outputs to inputs. There will always be a causal relation between what goes in and what comes out. 
+What's particularly interesting to me is this: Computers are inherently amazing at being random, but ChatGPT is a computer that has been trained to be like a human and has, in so doing, forfeited its innate capacity for randomness. So, in a sense, ChatGPT is bad at being random for the same reason humans are bad at being random: Our decision-making processes are based on neural networks, and what neural networks do is fundamentally match outputs to inputs. There will always be a causal relation between what goes in and what comes out. 
 
 ## How the program works
 Now let me explain how I constructed a program to provide true, deadpan randomness in the form of imperative utterances. This section assumes you understand some code. If you're mainly interested in the language angle, just skip past the codey parts.  
