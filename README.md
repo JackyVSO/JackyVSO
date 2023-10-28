@@ -11,7 +11,7 @@ The other files in the eponymous repository are the projects I've done so far. F
 
 **Houses** - Predicting house sales prices from tabular data
 
-**Starcraft** - Constructing, analyzing and visualizing data from eSports games 
+**Starcraft** - Compiling, analyzing and visualizing data from eSports games 
 
 **Truly Random** - Generating absolutely random instructions word by word (enter folder and open trulyrandom.md for a detailed description)
 
