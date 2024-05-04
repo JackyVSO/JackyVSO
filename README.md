@@ -1,6 +1,6 @@
 Hi!
 
-I'm an aspiring data engineer from Copenhagen, Denmark. I love to excavate surprising insights hidden "in plain sight" in the data all around us. I'm interested in all types of data but I do have a special fondness for the geographical sort.
+I'm an aspiring data analyst from Copenhagen, Denmark. I love to excavate surprising insights hidden "in plain sight" in the data all around us. I'm interested in all types of data but I do have a special fondness for the geographical sort. My primary tools are Python and SQL.
 
 Instead of reading a long-winded description, why not just jump right into my projects? Some of them are even quite fun, if I may say so myself, and all of them have a user-friendly description to guide you:
 
