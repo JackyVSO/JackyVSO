@@ -5,13 +5,14 @@ I'm an aspiring data engineer from Copenhagen, Denmark. I'll deal with any data 
 The other files in the eponymous repository contain descriptions of the projects I've done so far. Feel free to have a snoop around.
 <br/><br/>
 
-**Remoteness** - Mapping remoteness in Denmark using address data
+**[Remoteness](https://github.com/JackyVSO/JackyVSO/blob/main/remoteness.md)** - Mapping remoteness in Denmark using address data
 
-**Population** - Estimating area population using satellite images
+**[Magic Data Button](https://github.com/JackyVSO/QualityHomes/blob/main/readme.md)** - Scraping and sanitizing data from multiple sources to provide one convenient live overview in MS Excel
 
-**Houses** - Predicting house sales prices from tabular data
+**[Population](https://github.com/JackyVSO/JackyVSO/blob/main/population.ipynb)** - Estimating area population using satellite images
 
-**Starcraft** - Compiling, analyzing and visualizing data from eSports games (go to the [project repository](https://github.com/JackyVSO/Starcraft/tree/main) to browse all files from this project)
+**[Starcraft](https://github.com/JackyVSO/Starcraft/blob/main/readme.md)** - Compiling, analyzing and visualizing data from eSports games (go to the [project repository](https://github.com/JackyVSO/Starcraft/tree/main) to browse all files from this project)
 
-**Truly Random** - Generating absolutely random instructions word by word (enter folder and open trulyrandom.md for a detailed description)
+**[Truly Random](https://github.com/JackyVSO/JackyVSO/blob/main/TrulyRandom/TrulyRandom.md#how-do-you-generate-a-completely-random-but-fully-coherent-sentence)** - Generating absolutely random but grammatically correct instructions for things to do, word by word
 
+**[Houses](https://github.com/JackyVSO/JackyVSO/blob/main/Houses.ipynb)** - Predicting house sales prices from tabular data with ML
