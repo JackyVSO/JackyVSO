@@ -1,13 +1,12 @@
 Hi!
 
-I'm an aspiring data engineer from Copenhagen, Denmark. I'll deal with any data you throw at me but I have a special fondness for geographical data.
+I'm an aspiring data engineer from Copenhagen, Denmark. I love to excavate surprising insights hidden "in plain sight" in the data all around us. I'm interested in all types of data but I do have a special fondness for the geographical sort.
 
-The other files in the eponymous repository contain descriptions of the projects I've done so far. Feel free to have a snoop around.
-<br/><br/>
+Instead of reading a long-winded description, why not just jump right into my projects? Some of them are even quite fun, if I may say so myself, and all of them have a user-friendly description to guide you:
 
 **[Remoteness](https://github.com/JackyVSO/JackyVSO/blob/main/remoteness.md)** - Mapping remoteness in Denmark using address data
 
-**[Magic Data Button](https://github.com/JackyVSO/QualityHomes/blob/main/readme.md)** - Scraping and sanitizing data from multiple sources to provide one convenient live overview in MS Excel
+**[Magic Data Button](https://github.com/JackyVSO/JackyVSO/blob/main/MagicDataButton.md)** - Scraping and sanitizing data from multiple sources to provide one convenient live overview in MS Excel
 
 **[Population](https://github.com/JackyVSO/JackyVSO/blob/main/population.ipynb)** - Estimating area population using satellite images
 
